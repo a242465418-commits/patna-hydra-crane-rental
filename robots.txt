@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a242465418-commits.github.io/patna-hydra-crane-rental/sitemap.xml
