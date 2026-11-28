@@ -1,6 +1,6 @@
-# Patna Hydra Crane Rental
+# Shiv Ganga Crane Service
 
-A lightweight, multi-page static website for Patna Hydra Crane Rental. It uses HTML, CSS, vanilla JavaScript and local image assets; there is no build step, backend, API key or paid service.
+A lightweight, multi-page static website for Shiv Ganga Crane Service, offering Hydra crane rental and crane hire enquiries in Patna, Bihar. It uses HTML, CSS, vanilla JavaScript and local image assets; there is no build step, backend, API key or paid service.
 
 ## Preview locally
 

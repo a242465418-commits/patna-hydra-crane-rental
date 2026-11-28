@@ -78,7 +78,7 @@ if (enquiryForm instanceof HTMLFormElement) {
     const name = String(formData.get("name") || "").trim();
     const phone = String(formData.get("phone") || "").trim();
     const enquiry = [
-      "Hello, I have a crane rental enquiry for Patna Hydra Crane Rental.",
+      "Hello, I have a crane rental enquiry for Shiv Ganga Crane Service.",
       name ? `Name: ${name}` : "",
       phone ? `Phone: ${phone}` : "",
       `Requirements: ${message}`,
